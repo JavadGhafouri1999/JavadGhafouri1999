@@ -29,7 +29,13 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
 <h2>✒️ Recent Posts</h2>
 <ul>
-<li><a target="_blank" href=""></a></li>
+###
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JavadGhafouri1999/JavadGhafouri1999/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JavadGhafouri1999/JavadGhafouri1999/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JavadGhafouri1999/JavadGhafouri1999/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+###
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=JavadGhafouri1999&show_icons=true&locale=en" alt="JavadGhafouri1999" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JavadGhafouri1999&" alt="JavadGhafouri1999" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=JavadGhafouri1999&show_icons=true&locale=en&layout=compact" alt="JavadGhafouri1999" /></p>
